@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/bootstrap-sticky-footer-page.git
    ```
 
-2. Open the `index.html` file in your web browser.
+2. Open the `mainpage.html` file in your web browser.
 
 That's it! You should now be able to explore the simple Bootstrap page with a sticky footer.
 
